@@ -30,7 +30,7 @@ ACCELEROMETER | STK8313
 ALSPS | stk3x1x
 MAGNETOMETER | yas537
 CHARGER | bq25890
-PMIC | mt6311
+PMIC | mt6353 + mt6311
 WIFI | CONSYS_MT6755
 MODEM | mt6755_sp_lwctg_mp1_umoly0015_ds
 OTHER | ktd2151 kd_camera_hw kd_camera_hw_bus2
